@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhfastball
 - 👀 I’m interested in ...learning new things and problem solving
 - 🌱 I’m currently learning ... scikit learn/UI's/ C
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... anything and everything
 - 📫 How to reach me ... linkedin if you can find me
 
 <!---
