@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mhfastball
-- 👀 I’m interested in ...learning new things and problem solving
-- 🌱 I’m currently learning ... scikit learn/UI's/ C
-- 💞️ I’m looking to collaborate on ... anything and everything
-- 📫 How to reach me ... linkedin if you can find me
+- 👀 I’m interested in Problem solving
+- 🌱 I’m currently learning ... ReactJS + Electron
+- 💞️ I’m looking to collaborate on ... Anything Interesting
+- 📫 How to reach me ... linkedin is best way
 
 <!---
 mhfastball/mhfastball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
